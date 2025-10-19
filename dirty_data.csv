@@ -1,0 +1,7 @@
+name,email,join_date,score
+Alice , alice@example.com , 2025-01-10 , 89
+Bob,bob@example.com,2025/02/05,92
+Alice , alice@example.com , 2025-01-10 , 89
+Charlie,,,
+, , ,
+Diana,diana@example.com,10-03-2025,85
